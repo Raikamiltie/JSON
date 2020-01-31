@@ -1,0 +1,16 @@
+{"collection": [
+    {
+    "type": "album",
+    "title": "Reckoning Night",
+    "artist": "Sonata Arctica",
+    "publication": 2007,
+    "rating": 5
+  },
+    {
+    "type": "album",
+    "title": "Black Halo",
+    "artist": "Kamelot",
+    "publication": 2005,
+    "rating": 4
+  }
+]}
