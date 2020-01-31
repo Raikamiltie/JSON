@@ -35,10 +35,13 @@ public class AlbumWriter {
     }
 
 }
-//Pour tester le String[] args
+
+// Bonus de la fin : méthode pour tester le String[]args 
+// (pas sûre d'avoir tout noté correctement, 
+// je vais faire quelques tests plus tard...)
 //
 // java nomFichierJava argument
 // if (args[0].equals("-t"))
-//    sout("Bravo");
+//    System.out.println("Bravo");
 // else
-//    sout("Try again");
+//    System.out.println("Try again");
